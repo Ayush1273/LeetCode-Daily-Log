@@ -37,7 +37,7 @@ To create a "hole" in the grid, we must remove **consecutive** bars.
 
 ##  Solution
 
-
+```python
 class Solution(object):
     def maximizeSquareHoleArea(self, n, m, hBars, vBars):
         """
