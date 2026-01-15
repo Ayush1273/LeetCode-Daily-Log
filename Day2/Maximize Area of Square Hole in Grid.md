@@ -9,8 +9,7 @@ To create a "hole" in the grid, we must remove **consecutive** bars.
 * If we remove 2 consecutive bars (e.g., bars 2 and 3), we merge the spaces between 1-2, 2-3, and 3-4, creating a gap of 3 units.
 * **Formula:** If we remove $k$ consecutive bars, we create a gap of $k + 1$ units.
 
-The limiting factor for a **square** is the smaller of the maximum horizontal gap and the maximum vertical gap. Therefore, the side of our square will be:
-$$\text{side} = \min(\text{max\_h\_gap}, \text{max\_v\_gap})$$
+
 
 
 
