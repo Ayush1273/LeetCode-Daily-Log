@@ -17,7 +17,7 @@ Today I tackled two Medium-level problems focusing on array optimization and bit
 
 ---
 
-##  Problem 2: [260] Single Number III
+##  Problem 2: Single Number III
 **Goal:** In an array where every number appears twice except for two unique ones, find those two numbers using constant space.
 
 ###  What I Learned:
