@@ -7,7 +7,7 @@ Find the length of the longest substring where **all distinct characters** appea
   - Substring `"abba"` contains 'a' twice and 'b' twice. Both appear 2 times.
   - Result: 4.
 
-##  Approach: Brute Force with Frequency Array (O(N^2))
+##  Approach: 
 Given the constraints ($N \le 1000$), we can iterate through all possible substrings.
 
 1. **Outer Loop:** Fix the starting index `i`.
