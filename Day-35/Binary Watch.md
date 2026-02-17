@@ -12,8 +12,8 @@ Because the total number of valid times is very small (720), the simplest and mo
 4. **Formatting:** Ensure minutes are formatted with a leading zero (e.g., `:05` instead of `:5`).
 
 ## Complexity
-- **Time:** $O(1)$ — The input size doesn't change the number of iterations (720 fixed).
-- **Space:** $O(1)$ — Only the output list is stored.
+- **Time:** $O(1)$.
+- **Space:** $O(1)$.
 
 ---
 
