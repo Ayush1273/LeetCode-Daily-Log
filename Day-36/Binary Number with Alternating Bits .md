@@ -12,7 +12,7 @@ Instead of checking bits one by one, we can use bitwise properties to solve this
 2. **All-Ones Validation:** A quick way to check if a number `m` is all ones is to check `(m & (m + 1)) == 0`.
    - *Example:* If `m = 7` (`111`), then `m + 1 = 8` (`1000`). `111 & 1000` is `0`.
 
-## 📊Complexity
+## Complexity
 - **Time Complexity:** $O(1)$.
 - **Space Complexity:** $O(1)$.
 
