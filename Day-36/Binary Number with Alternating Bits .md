@@ -13,8 +13,8 @@ Instead of checking bits one by one, we can use bitwise properties to solve this
    - *Example:* If `m = 7` (`111`), then `m + 1 = 8` (`1000`). `111 & 1000` is `0`.
 
 ## 📊Complexity
-- **Time:** $O(1)$.
-- **Space:** $O(1)$.
+- **Time Complexity:** $O(1)$.
+- **Space Complexity:** $O(1)$.
 
 ---
 
